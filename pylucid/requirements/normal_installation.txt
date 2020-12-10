@@ -5,7 +5,6 @@
 #    pip-compile --output-file=normal_installation.txt normal_installation.in
 #
 -e git+https://github.com/jedie/cmsplugin-markup.git@develop#egg=cmsplugin-markup  # via -r normal_installation.in
--e git+https://github.com/jedie/djangocms-widgets.git#egg=djangocms-widgets  # via -r normal_installation.in
 aldryn-apphooks-config==0.6.0  # via djangocms-blog
 arrow==0.17.0             # via jinja2-time
 binaryornot==0.4.4        # via cookiecutter
