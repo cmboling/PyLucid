@@ -32,10 +32,10 @@ django-processinfo
 cmsplugin-pygments
 
 # https://github.com/jedie/django-debug-toolbar-django-info
-django-debug-toolbar-django-info
+#django-debug-toolbar-django-info
 
 # https://github.com/jedie/djangocms-widgets
--e git+https://github.com/jedie/djangocms-widgets.git#egg=djangocms-widgets
+#-e git+https://github.com/jedie/djangocms-widgets.git#egg=djangocms-widgets
 
 
 # external Django-CMS Addons
